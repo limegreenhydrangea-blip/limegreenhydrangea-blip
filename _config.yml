@@ -52,7 +52,7 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Wuuushuuuu
-  github: limegreenhydrangea
+  github: limegreenhydrangea-blip
   twitter: oakwardtreev2
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -132,8 +132,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#B3C656"
-text-col: "#568203"
+page-col: "#568203"
+text-col: "#B3C656"
 link-col: "#7B964A"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
