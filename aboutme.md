@@ -4,6 +4,8 @@ title: About me
 subtitle: Your sweet, slightly overthinking friend
 ---
 
+avatar: "/assets/img/av2.png"
+
 Hi, I’m Avo.
 
 I’m a sweet friend at heart — the kind who cares deeply, even if I don’t always show it right away. I tend to be a little guarded at first, quietly observing, thinking things through from every angle. My mind likes to wander into what-ifs and maybes, and yes… I sometimes overthink. A lot.
