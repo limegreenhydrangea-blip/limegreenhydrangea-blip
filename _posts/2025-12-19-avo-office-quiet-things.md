@@ -9,7 +9,7 @@ tags: [avocado, growth, journey]
 author: BAC
 ---
 
-![Avocado](assets/img/image2.png){: .mx-auto.d-block :}
+![assets/img/image2.png](https://github.com/limegreenhydrangea-blip/avocado/blob/master/assets/img/image2.png){: .mx-auto.d-block :}
 
 One gentle spring, a small avocado named Avo rolled into a curious place known as the Supply Grove—a room where lists whispered, papers rustled like leaves, and important things were quietly decided.
 
@@ -19,7 +19,7 @@ She was silent, shy, and unfailingly polite, greeting everyone with a tiny nod a
 
 Rather than speaking much, Avo watched.
 
-![Avocado](assets/img/image3.png){: .mx-auto.d-block :}
+![assets/img/image3.png](https://github.com/limegreenhydrangea-blip/avocado/blob/master/assets/img/image3.png){: .mx-auto.d-block :}
 
 From her little spot in the corner of the Supply Grove, she observed how the office forest functioned: how requests drifted in, how approvals wandered across desks, and how timelines grew and looped like patient vines. She studied it all quietly, letting understanding come to her instead of chasing it.
 
@@ -31,7 +31,7 @@ She sat peacefully in her corner, passing the quiet moments with patience, waiti
 
 And when it did, her pit stirred.
 
-![Avocado](assets/img/image1.png){: .mx-auto.d-block :}
+![[assets/img/image1.png]](https://github.com/limegreenhydrangea-blip/avocado/blob/master/assets/img/image1.png){: .mx-auto.d-block :}
 
 
 Avo worked with care and focus, even if her hands were still learning. She made mistakes—small tangles, misplaced seeds—but she never turned away from them. Instead, she learned, corrected, and tried again, fixing what she could as soon as she noticed.
